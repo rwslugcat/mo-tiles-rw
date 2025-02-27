@@ -175,13 +175,6 @@
 [#nm:"Pipe End Piece EB", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Pipe End Piece WB", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 
-[#nm:"Inside Huge Pipe Top", #sz:point(12,2), #specs:[1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,1], #specs2:[1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,1], #tp:"voxelStruct", #repeatL:[2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
-[#nm:"Inside Huge Pipe Bottom", #sz:point(12,2), #specs:[1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1], #specs2:[1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1], #tp:"voxelStruct", #repeatL:[2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
-[#nm:"Huge Pressure Tube Segment", #sz:point(10,2), #specs:[1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1], #specs2:[1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1], #tp:"voxelStruct", #repeatL:[2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
-[#nm:"Inside Huge Pipe Left", #sz:point(2,12), #specs:[1,4,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,1], #specs2:[1,4,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,1], #tp:"voxelStruct", #repeatL:[2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
-[#nm:"Inside Huge Pipe Right", #sz:point(2,12), #specs:[1,0,0,0,0,0,0,0,0,0,0,1,1,5,0,0,0,0,0,0,0,0,3,1], #specs2:[1,0,0,0,0,0,0,0,0,0,0,1,1,5,0,0,0,0,0,0,0,0,3,1], #tp:"voxelStruct", #repeatL:[2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
-[#nm:"Huge Pressure Tube Segment Horizontal", #sz:point(2,10), #specs:[1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1], #specs2:[1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1], #tp:"voxelStruct", #repeatL:[2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
-
 [#nm:"Vertical Half Pipes", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:4, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Horizontal Half Pipes", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:4, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Half Pipes WS", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:4, #ptPos:0, #tags:["nonSolid"]]
@@ -195,6 +188,13 @@
 [#nm:"Half Pipes XJunct", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 
 -["Mo' Tiles Inside Pipes", color(220, 255, 0)]
+
+[#nm:"Inside Huge Pipe Top", #sz:point(12,2), #specs:[1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,1], #specs2:[1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,1], #tp:"voxelStruct", #repeatL:[2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Inside Huge Pipe Bottom", #sz:point(12,2), #specs:[1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1], #specs2:[1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1], #tp:"voxelStruct", #repeatL:[2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Huge Pressure Tube Segment", #sz:point(10,2), #specs:[1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1], #specs2:[1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1], #tp:"voxelStruct", #repeatL:[2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Inside Huge Pipe Left", #sz:point(2,12), #specs:[1,4,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,1], #specs2:[1,4,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,1], #tp:"voxelStruct", #repeatL:[2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Inside Huge Pipe Right", #sz:point(2,12), #specs:[1,0,0,0,0,0,0,0,0,0,0,1,1,5,0,0,0,0,0,0,0,0,3,1], #specs2:[1,0,0,0,0,0,0,0,0,0,0,1,1,5,0,0,0,0,0,0,0,0,3,1], #tp:"voxelStruct", #repeatL:[2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Huge Pressure Tube Segment Horizontal", #sz:point(2,10), #specs:[1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1], #specs2:[1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1], #tp:"voxelStruct", #repeatL:[2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 
 [#nm:"Big Inside Pipe B LD", #sz:point(5,5), #specs:[-1, -1, -1, -1, -1,     -1, 0, 0, 0, -1,    -1, 0, 0, 0, -1,    -1, 5, 0, 0, -1,    -1, -1, -1, -1, -1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Big Inside Pipe B RD", #sz:point(5,5), #specs:[-1, -1, -1, -1, -1,     -1, 4, 0, 0, -1,    -1, 0, 0, 0, -1,    -1, 0, 0, 0, -1,    -1, -1, -1, -1, -1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]

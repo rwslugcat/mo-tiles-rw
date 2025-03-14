@@ -159,6 +159,7 @@
 [#nm:"MT Crane House Seg1B", #sz:point(1,6), #specs:[1,1,-1,-1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,2,2,2,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 
 [#nm:"MT Crane House V", #sz:point(6,6), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,2,2,2,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"MT Crane House VB", #sz:point(6,6), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,2,2,2,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"MT Crane House Small V", #sz:point(6,2), #specs:[1,1,1,1,-1,-1,-1,-1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,2,2,2,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"MT Crane House Small VB", #sz:point(6,2), #specs:[1,1,1,1,-1,-1,-1,-1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,2,2,2,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"MT Crane House Seg V", #sz:point(6,2), #specs:[1,1,1,1,-1,-1,-1,-1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,2,2,2,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]

@@ -1,0 +1,33 @@
+-["Manual Big Metal Props", color(255, 40, 0)]
+[#nm:"Material Big Metal Prop H", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Material Big Metal Prop V", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
+
+[#nm:"Material Big Metal Prop D", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Material Big Metal Prop R", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Material Big Metal Prop U", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Material Big Metal Prop L", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
+
+[#nm:"Material Big Metal Prop DB", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Material Big Metal Prop RB", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Material Big Metal Prop UB", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Material Big Metal Prop LB", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
+
+[#nm:"Material Big Metal Prop UL", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Material Big Metal Prop UR", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Material Big Metal Prop DR", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Material Big Metal Prop DL", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
+
+[#nm:"Material Big Metal Prop ULB", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Material Big Metal Prop URB", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Material Big Metal Prop DRB", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Material Big Metal Prop DLB", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
+
+[#nm:"Material Big Metal Prop TJU", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Material Big Metal Prop TJR", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Material Big Metal Prop TJD", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Material Big Metal Prop TJL", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
+
+[#nm:"Material Big Metal Prop XJ", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
+
+[#nm:"Material Big Metal Prop Block", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Material Big Metal Prop BlockB", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]

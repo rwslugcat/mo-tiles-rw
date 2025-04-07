@@ -252,6 +252,7 @@
 [#nm:"Fat Beam Segment End U", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,1,4,1,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid", "notTrashProp"]]
 [#nm:"Fat Beam Block", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,1,4,1,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid", "notTrashProp"]]
 [#nm:"Fat Beam Cover Platform", #sz:point(1,1), #specs:[6], #specs2:0, #tp:"voxelStruct", #repeatL:[2,1,4,1,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid", "notTrashProp"]]
+[#nm:"Fat Beam Cover Platform Alt", #sz:point(1,1), #specs:[6], #specs2:0, #tp:"voxelStruct", #repeatL:[2,1,4,1,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid", "notTrashProp"]]
 [#nm:"Fat Beam Scaffolding", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[2,1,4,1,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid", "notTrashProp"]]
 [#nm:"Fat Beam ScaffoldingB", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[2,1,4,1,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid", "notTrashProp"]]
 
@@ -381,8 +382,15 @@
 [#nm:"Fat Pillar Segment H", #sz:point(2,4), #specs:[1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Fat Pillar Segment H 1", #sz:point(1,4), #specs:[1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Pillar divider H", #sz:point(1,4), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,8,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Pillar divider alt", #sz:point(4,1), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,8,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Pillar divider alt", #sz:point(1,4), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,8,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Pillar divider 3wide", #sz:point(3,1), #specs:[1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,8,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Pillar divider 3wide alt", #sz:point(3,1), #specs:[1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,8,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Temple Pillar Broken1F", #sz:point(6,6), #specs:[1,1,1,-1,-1,-1,1,1,4,-1,-1,-1,1,1,-1,-1,-1,-1,1,4,-1,-1,-1,-1,1,1,-1,-1,-1,-1,1,1,5,-1,-1,-1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Temple Pillar Broken2F", #sz:point(6,6), #specs:[1,1,1,-1,-1,-1,1,1,4,-1,-1,-1,1,1,-1,-1,-1,-1,1,4,-1,-1,-1,-1,1,1,-1,-1,-1,-1,1,1,5,-1,-1,-1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"protruding mega wall vent", #sz:point(11,11), #specs:[-1,-1,-1,-1,3,1,5,-1,-1,-1,-1,-1,-1,3,1,1,1,1,1,5,-1,-1,-1,3,1,1,1,1,1,1,1,5,-1,-1,1,1,1,1,1,1,1,1,1,-1,3,1,1,1,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,4,-1,1,1,1,1,1,1,1,1,1,-1,-1,2,1,1,1,1,1,1,1,4,-1,-1,-1,2,1,1,1,1,1,4,-1,-1,-1,-1,-1,-1,2,1,4,-1,-1,-1,-1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,6,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"protruding big wall vent", #sz:point(6,6), #specs:[-1,-1,1,1,-1,-1,-1,1,1,1,1,-1,1,1,1,1,1,1,1,1,1,1,1,1,-1,1,1,1,1,-1,-1,-1,1,1,-1,-1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,6,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Protruding Pillar Machine", #sz:point(6,10), #specs:[-1,-1,3,1,1,5,-1,-1,-1,-1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,-1,-1,2,1,1,4,-1,-1,-1,-1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,4], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 
 -["Mo' Tiles Tanks", color(212, 0, 255)]
 [#nm:"1 Wide Tank Left Segment", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
@@ -585,6 +593,9 @@
 [#nm:"Compressor SegmentB", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,2,2,2,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Big DrillB", #sz:point(3,3), #specs:[1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Big Drill HeadB", #sz:point(3,8), #specs:[1,1,1,1,1,1,5,-1 ,1,1,1,1,1,1,1,-1 ,1,1,1,1,1,1,4,-1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Upside Down Drill Rim", #sz:point(3,1), #specs:[1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Drill Rim Alt", #sz:point(3,1), #specs:[1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Upside Down Drill Rim Alt", #sz:point(3,1), #specs:[1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Pipe Box UR", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,2,4,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Pipe Box UL", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,2,4,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Hub MachineB", #sz:point(3,3), #specs:[1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,4], #bfTiles:2, #rnd:1, #ptPos:0, #tags:[]]
@@ -649,6 +660,10 @@
 [#nm:"Scaffoldless Thick Pipe ESB", #sz:point(2,2), #specs:[-1,3,3,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Scaffoldless Thick Pipe ENB", #sz:point(2,2), #specs:[5,-1,1,5], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 
+[#nm:"Thick Pipe End Piece Horizontal", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Thick Pipe End Piece Vertical", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Thick Pipe End Piece L2C", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+
 -["Mo' Tiles Thin Pipes", color(255, 212, 0)]
 [#nm:"Vertical PipeB", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Horizontal PipeB", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
@@ -681,6 +696,10 @@
 [#nm:"Pipe End Piece W", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Pipe End Piece EB", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Pipe End Piece WB", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+
+[#nm:"Pipe End Piece Horizontal", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Pipe End Piece Vertical", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Pipe End Piece L2C", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 
 -["Mo' Tiles Inside Huge Pipes", color(126, 255, 0)]
 [#nm:"Inside Huge Pipe Top", #sz:point(12,2), #specs:[1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,1], #specs2:[1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,1], #tp:"voxelStruct", #repeatL:[2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]

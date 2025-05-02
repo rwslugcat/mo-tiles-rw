@@ -2,6 +2,8 @@ i like making tiles and people need tiles so this exists
 also included in [the level editor warehouse](https://github.com/solaristheworstcatever/The-Level-Editor-Warehouse) or solars repo if thats what you call it
 you can use these for whatever but if you edit them ask first (and also i'll want to put them in here)
 
+has a discord (dm rwslugcat on discord for the link, sorry about this had some issues)
+
 credits for tiles/tile edits not made by me
 
 mirra

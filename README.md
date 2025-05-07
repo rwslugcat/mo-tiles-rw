@@ -4,6 +4,8 @@ you can use these for whatever but if you edit them ask first (and also i'll wan
 
 has a discord (dm rwslugcat on discord for the link, sorry about this had some issues)
 
+you can edit any tiles provided here as long as you ask first :) (oh and i am allowed to add it in)
+
 credits for tiles/tile edits not made by me
 
 mirra

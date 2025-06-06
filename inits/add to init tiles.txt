@@ -430,6 +430,8 @@
 [#nm:"Fake Pole H", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[4,1,5], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Fake Pole C", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[4,1,5], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 
+[#nm:"Small Drill Valve", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+
 -["Mo' Tiles Tanks", color(212, 0, 255)]
 [#nm:"1 Wide Tank Left Segment", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"1 Wide Tank Right Segment", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
